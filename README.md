@@ -1,2 +1,2 @@
 # learn-the-programming
-This problem came from the ‘codeup’
+그냥 평범한 공부 저장소
